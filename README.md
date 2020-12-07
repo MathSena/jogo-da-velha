@@ -1,5 +1,5 @@
 # jogo-da-velha  🚀
-Jogo da velha feito para um projeto na Digital Inovation One
+Jogo da velha feito para um projeto na Digital Innovation One
  
 ### As tecnologias utilizadas são:
 * [HTML básico](https://www.w3schools.com/html/)
